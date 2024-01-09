@@ -15,7 +15,7 @@ Key features:
 
 ## Report
 
-The full details of the theory, code implementation, and examples are documented in the Report.pdf file
+The full details of the theory, code implementation, and examples are documented in the [Report](Report.pdf) file
 
 The report covers:
 
