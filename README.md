@@ -26,4 +26,4 @@ The report covers:
 
 ## Usage
 
-See the report for code usage and examples. The `main.m` script provides sample code to call the functions.
+See the report for code usage and examples. The [`main.m`](main.m) script provides sample code to call the functions.
